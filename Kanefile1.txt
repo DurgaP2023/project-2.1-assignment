@@ -1,0 +1,2 @@
+this is Kanefile1.txt
+
